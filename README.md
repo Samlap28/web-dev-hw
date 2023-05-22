@@ -1,2 +1,2 @@
-# SAMS web-dev-hw
+# Samuel Laprais web-dev-hw
 Repository for intro web design hw
