@@ -1,2 +1,2 @@
-# SAM'S web-dev-hw
+# SAMS web-dev-hw
 Repository for intro web design hw
