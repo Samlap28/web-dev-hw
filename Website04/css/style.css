@@ -71,3 +71,5 @@ body {
   width: 100%;
   height: auto;
 }
+{.button:hover
+  border-color: #800080}
